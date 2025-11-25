@@ -69,7 +69,7 @@ All configuration screenshots are included in the report.
 
 Update this variable inside `main.c`:
 
-```
+
 volatile filter_t current_filter = FILTER_BPF;
 FILTER_LPF
 FILTER_HPF
