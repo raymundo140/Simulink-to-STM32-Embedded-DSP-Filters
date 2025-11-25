@@ -1,0 +1,2 @@
+../Core/Src/lpf_c_caller.c:19:7:lpf_reset	4	static
+../Core/Src/lpf_c_caller.c:26:9:lpf_step	32	static

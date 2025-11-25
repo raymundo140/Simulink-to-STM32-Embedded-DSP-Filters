@@ -1,0 +1,2 @@
+../Core/Src/bsf_c_caller.c:22:7:bsf_reset	4	static
+../Core/Src/bsf_c_caller.c:28:9:bsf_step	32	static

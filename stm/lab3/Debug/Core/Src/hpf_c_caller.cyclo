@@ -1,0 +1,2 @@
+../Core/Src/hpf_c_caller.c:18:7:hpf_reset	1
+../Core/Src/hpf_c_caller.c:24:9:hpf_step	1
