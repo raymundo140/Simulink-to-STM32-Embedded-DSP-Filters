@@ -33,7 +33,9 @@ The STM32G474RE receives an analog signal through the ADC, processes the signal 
 ## 📂 Repository Structure
 
 📁 stm/ → STM32CubeIDE project
+
 📁 matlab/ → Filter modeling and simulation (MATLAB/Simulink)
+
 📄 lab3_2025020338-1.pdf → Final written report
 
 
