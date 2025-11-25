@@ -73,14 +73,26 @@ Update this variable inside `main.c`:
 volatile filter_t current_filter = FILTER_BPF;
 
 FILTER_LPF
+
+
 FILTER_HPF
+
+
 FILTER_APF
+
+
 FILTER_BPF
+
+
 FILTER_BSF
 
 ---
 
 Developed by: Raymundo
+
+
 Tecnológico de Monterrey — Robotics and Digital Systems Engineering
 2025
+
+
 © 2025. All rights reserved.
