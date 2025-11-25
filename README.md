@@ -55,22 +55,6 @@ All configuration screenshots are included in the report.
 
 ---
 
-## ▶ Real-Time Results Videos
-
-These videos demonstrate input vs output on an oscilloscope:
-
-| Filter | Video Link |
-|--------|------------|
-| LPF | *(To be added by user)* |
-| HPF | *(To be added by user)* |
-| APF | *(To be added by user)* |
-| BPF | *(To be added by user)* |
-| BSF | *(To be added by user)* |
-
-You can update once all videos are recorded and uploaded.
-
----
-
 ## 🚀 How to Build
 
 1. Open the project in STM32CubeIDE
